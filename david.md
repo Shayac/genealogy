@@ -1,4 +1,4 @@
-David was Shlomo's father. 
+David was [Shlomo's](https://github.com/Shayac/genealogy/blob/main/%D7%A9%D7%9C%D7%9E%D7%94%20%D7%9B%D7%94%D7%9F.md) father. 
 
 Born: 1830
 Married: Szejna (Shayna) Kuberski
